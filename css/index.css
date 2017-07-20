@@ -1,0 +1,706 @@
+* {
+  margin: 0;
+  padding: 0;
+  list-style-type: none; }
+
+body {
+  width: 1440px; }
+
+header > div {
+  width: 1140px;
+  height: 80px;
+  margin: 0 auto; }
+  header > div > div > ul {
+    height: 80px;
+    margin-right: 68px; }
+    header > div > div > ul > li {
+      line-height: 60px;
+      position: relative;
+      top: 20px; }
+      header > div > div > ul > li a {
+        line-height: 50px; }
+      header > div > div > ul > li:nth-of-type(1) > a > h1 > img {
+        width: 72px;
+        height: 48px;
+        position: relative;
+        top: -36px; }
+  header > div > ul {
+    height: 80px;
+    margin-right: 68px; }
+    header > div > ul > li {
+      line-height: 60px;
+      position: relative;
+      top: 20px; }
+      header > div > ul > li > form {
+        position: relative;
+        top: -20px; }
+      header > div > ul > li a {
+        line-height: 50px; }
+
+banner {
+  width: 100%; }
+  banner > img {
+    margin-top: -20px;
+    width: 100%; }
+
+nav {
+  height: 54px; }
+  nav a {
+    line-height: 54px; }
+  nav > div {
+    height: 54px; }
+    nav > div > ul {
+      height: 54px; }
+      nav > div > ul > li {
+        float: left;
+        height: 54px;
+        margin: 0 30px; }
+
+article {
+  width: 1140px;
+  margin: 20px auto; }
+  article > div:nth-of-type(1) {
+    width: 850px; }
+    article > div:nth-of-type(1) > section {
+      width: 100%;
+      background-color: white;
+      margin-bottom: 20px; }
+      article > div:nth-of-type(1) > section:nth-of-type(1) {
+        height: 130px; }
+        article > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) {
+          height: 60px;
+          padding: 0 20px;
+          border-bottom: 1px solid lightgrey; }
+          article > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(1) > h2 {
+            font-size: 18px; }
+        article > div:nth-of-type(1) > section:nth-of-type(1) > div:nth-of-type(2) {
+          height: 70px;
+          line-height: 70px; }
+      article > div:nth-of-type(1) > section:nth-of-type(2) {
+        height: 654px; }
+        article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) {
+          height: 60px;
+          padding: 0 20px;
+          border-bottom: 1px solid lightgrey; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2 {
+            font-size: 18px; }
+        article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div {
+          width: 283px;
+          height: 296px;
+          border: 1px solid lightgray;
+          text-align: center;
+          padding-top: 10px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > img {
+            width: 262px;
+            height: 148px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p {
+            width: 240px;
+            margin: 0 auto; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(1) {
+              text-align: left; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) {
+              color: #00c000; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div {
+            width: 210px;
+            height: 44px;
+            margin: 12px auto; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) {
+              width: 52px;
+              height: 22px; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > img {
+                width: 52px;
+                height: 22px; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(2) {
+              width: 152px;
+              height: 44px; }
+      article > div:nth-of-type(1) > section:nth-of-type(3) {
+        height: 130px; }
+        article > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) {
+          height: 60px;
+          padding: 0 20px;
+          border-bottom: 1px solid lightgrey; }
+          article > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(1) > h2 {
+            font-size: 18px; }
+        article > div:nth-of-type(1) > section:nth-of-type(3) > div:nth-of-type(2) {
+          height: 70px;
+          line-height: 70px; }
+      article > div:nth-of-type(1) > section:nth-of-type(4) {
+        height: 270px; }
+        article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) {
+          height: 60px;
+          padding: 0 20px;
+          border-bottom: 1px solid lightgrey; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2 {
+            font-size: 18px; }
+        article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div {
+          width: 770px;
+          margin: 20px auto; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) {
+            height: 120px;
+            border: 1px solid lightgrey; }
+  article > div:nth-of-type(2) {
+    width: 272px; }
+    article > div:nth-of-type(2) > section {
+      width: 100%;
+      background-color: white;
+      margin-bottom: 20px; }
+      article > div:nth-of-type(2) > section:nth-of-type(1) {
+        height: 100px;
+        text-align: center;
+        padding-top: 22px; }
+      article > div:nth-of-type(2) > section:nth-of-type(2) {
+        height: 360px;
+        padding: 24px 30px; }
+        article > div:nth-of-type(2) > section:nth-of-type(2) > ul > li {
+          height: 34px;
+          line-height: 34px;
+          padding-left: 6px;
+          border-bottom: 1px dashed lightgrey; }
+          article > div:nth-of-type(2) > section:nth-of-type(2) > ul > li > span {
+            color: gray; }
+      article > div:nth-of-type(2) > section:nth-of-type(3) {
+        height: 252px; }
+        article > div:nth-of-type(2) > section:nth-of-type(3) > div {
+          height: 60px;
+          border-bottom: 1px solid lightgrey;
+          padding-left: 20px; }
+          article > div:nth-of-type(2) > section:nth-of-type(3) > div > h2 {
+            font-size: 18px;
+            line-height: 60px; }
+        article > div:nth-of-type(2) > section:nth-of-type(3) > ul {
+          padding: 20px; }
+          article > div:nth-of-type(2) > section:nth-of-type(3) > ul > li {
+            padding-bottom: 20px; }
+            article > div:nth-of-type(2) > section:nth-of-type(3) > ul > li:nth-of-type(1) > span:nth-of-type(1) {
+              color: #00c000; }
+      article > div:nth-of-type(2) > section:nth-of-type(4) {
+        height: 212px; }
+        article > div:nth-of-type(2) > section:nth-of-type(4) > div {
+          height: 60px;
+          border-bottom: 1px solid lightgrey;
+          padding-left: 20px; }
+          article > div:nth-of-type(2) > section:nth-of-type(4) > div > h2 {
+            font-size: 18px;
+            line-height: 60px; }
+        article > div:nth-of-type(2) > section:nth-of-type(4) > ul {
+          padding: 20px; }
+          article > div:nth-of-type(2) > section:nth-of-type(4) > ul > li {
+            margin-right: 24px; }
+            article > div:nth-of-type(2) > section:nth-of-type(4) > ul > li > p {
+              margin-top: 16px; }
+
+@media (max-width: 1200px) {
+  body {
+    width: 1200px;
+    overflow: hidden; }
+
+  header > div {
+    width: 916px;
+    height: 80px;
+    margin: 0 auto; }
+    header > div > div > ul {
+      height: 80px;
+      margin-right: 40px; }
+      header > div > div > ul > li {
+        line-height: 60px;
+        position: relative;
+        top: 20px; }
+        header > div > div > ul > li a {
+          line-height: 50px; }
+        header > div > div > ul > li:nth-of-type(1) > a > h1 > img {
+          width: 72px;
+          height: 48px;
+          position: relative;
+          top: -36px; }
+    header > div > ul {
+      height: 80px;
+      margin-right: 68px; }
+      header > div > ul > li {
+        line-height: 60px;
+        position: relative;
+        top: 20px; }
+        header > div > ul > li > form {
+          position: relative;
+          top: -20px; }
+        header > div > ul > li a {
+          line-height: 50px; }
+
+  nav {
+    height: 54px; }
+    nav a {
+      line-height: 54px; }
+    nav > div {
+      height: 54px; }
+      nav > div > ul {
+        height: 54px; }
+        nav > div > ul > li {
+          float: left;
+          height: 54px;
+          margin: 0 12px; }
+
+  article {
+    width: 940px;
+    margin: 20px auto; }
+    article > div:nth-of-type(1) {
+      width: 700px; }
+      article > div:nth-of-type(1) > section {
+        width: 100%;
+        background-color: white;
+        margin-bottom: 20px; }
+        article > div:nth-of-type(1) > section:nth-of-type(4) {
+          height: 270px; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) {
+            height: 60px;
+            padding: 0 20px;
+            border-bottom: 1px solid lightgrey; }
+            article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2 {
+              font-size: 18px; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div {
+            width: 620px;
+            margin: 20px auto; }
+            article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) {
+              height: 120px;
+              border: 1px solid lightgrey; }
+        article > div:nth-of-type(1) > section:nth-of-type(2) {
+          height: 654px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) {
+            height: 60px;
+            padding: 0 20px;
+            border-bottom: 1px solid lightgrey; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2 {
+              font-size: 18px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div {
+            width: 230px;
+            height: 268px;
+            border: 1px solid lightgray;
+            text-align: center;
+            padding-top: 10px; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > img {
+              width: 212px;
+              height: 120px; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p {
+              width: 188px;
+              margin: 0 auto; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(1) {
+                text-align: left; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) {
+                color: #00c000; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div {
+              width: 188px;
+              height: 44px;
+              margin: 12px auto; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) {
+                width: 52px;
+                height: 22px; }
+                article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > img {
+                  width: 52px;
+                  height: 22px; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(2) {
+                width: 130px;
+                height: 44px;
+                font-size: 12px; }
+    article > div:nth-of-type(2) {
+      width: 220px; }
+      article > div:nth-of-type(2) > section:nth-of-type(4) {
+        height: 212px; }
+        article > div:nth-of-type(2) > section:nth-of-type(4) > div {
+          height: 60px;
+          border-bottom: 1px solid lightgrey;
+          padding-left: 20px; }
+          article > div:nth-of-type(2) > section:nth-of-type(4) > div > h2 {
+            font-size: 18px;
+            line-height: 60px; }
+        article > div:nth-of-type(2) > section:nth-of-type(4) > ul {
+          padding: 20px; }
+          article > div:nth-of-type(2) > section:nth-of-type(4) > ul > li > img {
+            width: 60px;
+            height: 60px; }
+          article > div:nth-of-type(2) > section:nth-of-type(4) > ul > li > p {
+            margin-top: 16px; }
+
+  footer {
+    background-color: #515151; }
+    footer > div {
+      width: 896px;
+      height: 202px;
+      margin: 0 auto;
+      color: white; }
+      footer > div > ul {
+        height: 128px; }
+        footer > div > ul > li {
+          float: left;
+          padding-top: 48px; }
+          footer > div > ul > li:nth-of-type(1) {
+            position: relative;
+            top: -20px; }
+          footer > div > ul > li:nth-of-type(2) {
+            margin-left: 60px; }
+            footer > div > ul > li:nth-of-type(2) > span {
+              color: lightgrey; }
+          footer > div > ul > li:nth-of-type(3) {
+            float: right; }
+            footer > div > ul > li:nth-of-type(3) > img {
+              margin-left: 10px; }
+        footer > div > ul > div {
+          width: 1002px;
+          color: lightgrey; }
+          footer > div > ul > div > p {
+            width: 1002px;
+            overflow: hidden; } }
+@media (max-width: 800px) {
+  body {
+    width: 800px;
+    overflow: hidden; }
+
+  header > div {
+    width: 740px;
+    height: 80px;
+    margin: 0 auto; }
+    header > div > div > ul {
+      height: 80px; }
+      header > div > div > ul > li {
+        line-height: 60px;
+        position: relative;
+        top: 20px; }
+        header > div > div > ul > li a {
+          line-height: 50px; }
+        header > div > div > ul > li:last-of-type {
+          display: none; }
+        header > div > div > ul > li:nth-of-type(1) > a > h1 > img {
+          width: 72px;
+          height: 48px;
+          position: relative;
+          top: -36px; }
+    header > div > ul {
+      height: 80px; }
+      header > div > ul > li {
+        line-height: 60px;
+        position: relative;
+        top: 20px; }
+        header > div > ul > li > form {
+          position: relative;
+          top: -20px; }
+        header > div > ul > li a {
+          line-height: 50px; }
+        header > div > ul > li:last-of-type {
+          display: none; }
+
+  article {
+    width: 722px;
+    margin: 20px auto; }
+    article > div:nth-of-type(1) {
+      width: 722px;
+      order: 1; }
+      article > div:nth-of-type(1) > section {
+        width: 100%;
+        background-color: white;
+        margin-bottom: 20px; }
+        article > div:nth-of-type(1) > section:nth-of-type(4) {
+          height: 270px; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) {
+            height: 60px;
+            padding: 0 20px;
+            border-bottom: 1px solid lightgrey; }
+            article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2 {
+              font-size: 18px; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div {
+            width: 640px;
+            margin: 20px auto; }
+            article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) {
+              height: 120px;
+              border: 1px solid lightgrey; }
+        article > div:nth-of-type(1) > section:nth-of-type(2) {
+          height: 740px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) {
+            height: 60px;
+            padding: 0 20px;
+            border-bottom: 1px solid lightgrey; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2 {
+              font-size: 18px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div {
+            width: 358px;
+            height: 340px;
+            border: 1px solid lightgray;
+            text-align: center;
+            padding-top: 10px; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > img {
+              width: 340px;
+              height: 192px; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p {
+              width: 316px;
+              margin: 0 auto; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(1) {
+                text-align: left; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) {
+                color: #00c000; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div {
+              width: 316px;
+              height: 44px;
+              margin: 12px auto; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) {
+                width: 52px;
+                height: 22px; }
+                article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > img {
+                  width: 52px;
+                  height: 22px; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(2) {
+                width: 130px;
+                height: 44px;
+                font-size: 12px; }
+    article > div:nth-of-type(2) {
+      width: 722px;
+      order: 2; }
+      article > div:nth-of-type(2) > section:nth-of-type(1) {
+        width: 270px; }
+      article > div:nth-of-type(2) > section:nth-of-type(2) {
+        height: 218px; }
+
+  footer {
+    background-color: #515151;
+    height: 326px; }
+    footer > div {
+      width: 722px;
+      height: 326px;
+      margin: 0 auto;
+      position: relative;
+      left: 34px;
+      color: white; }
+      footer > div > div {
+        width: 722px;
+        color: lightgrey;
+        order: 2;
+        position: relative;
+        top: 30px; }
+        footer > div > div > p {
+          width: 722px;
+          overflow: hidden; }
+      footer > div > ul {
+        width: 722px;
+        height: 234px;
+        order: 1;
+        text-align: center; }
+        footer > div > ul > li {
+          margin-bottom: -20px;
+          width: 722px; }
+          footer > div > ul > li:nth-of-type(1) {
+            position: relative;
+            top: 40px;
+            order: 4; }
+          footer > div > ul > li:nth-of-type(2) {
+            position: relative;
+            left: -120px;
+            order: 5; }
+            footer > div > ul > li:nth-of-type(2) > span {
+              color: lightgrey; }
+          footer > div > ul > li:nth-of-type(3) {
+            order: 6;
+            padding-bottom: 10px; }
+            footer > div > ul > li:nth-of-type(3) > img {
+              margin-left: 10px; } }
+@media (max-width: 640px) {
+  body {
+    width: 640px;
+    overflow: hidden; }
+
+  header > div {
+    width: 600px;
+    height: 80px;
+    margin: 0 auto; }
+    header > div > div > button {
+      margin-top: 40px; }
+    header > div > div > ul {
+      height: 80px; }
+      header > div > div > ul > li {
+        line-height: 60px;
+        position: relative;
+        top: 20px; }
+        header > div > div > ul > li a {
+          line-height: 50px; }
+        header > div > div > ul > li:last-of-type {
+          display: none; }
+        header > div > div > ul > li:nth-of-type(2) {
+          display: none; }
+        header > div > div > ul > li:nth-of-type(3) {
+          display: none; }
+        header > div > div > ul > li:nth-of-type(4) {
+          display: none; }
+        header > div > div > ul > li:nth-of-type(1) {
+          display: block; }
+          header > div > div > ul > li:nth-of-type(1) > a > h1 > img {
+            width: 72px;
+            height: 48px;
+            position: relative;
+            top: -36px; }
+    header > div > ul {
+      height: 80px; }
+      header > div > ul > li {
+        line-height: 60px;
+        position: relative;
+        top: 20px; }
+        header > div > ul > li > form {
+          position: relative;
+          top: -20px; }
+        header > div > ul > li a {
+          line-height: 50px; }
+        header > div > ul > li:last-of-type {
+          display: none; }
+
+  nav {
+    height: 54px; }
+    nav a {
+      line-height: 54px; }
+    nav > div {
+      height: 54px; }
+      nav > div > ul {
+        height: 54px; }
+        nav > div > ul > li {
+          float: left;
+          height: 54px;
+          margin: 0 5px; }
+
+  article {
+    width: 604px;
+    margin: 20px auto; }
+    article > div:nth-of-type(1) {
+      width: 604px;
+      order: 1; }
+      article > div:nth-of-type(1) > section {
+        width: 100%;
+        background-color: white;
+        margin-bottom: 20px; }
+        article > div:nth-of-type(1) > section:nth-of-type(4) {
+          height: 270px; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) {
+            height: 60px;
+            padding: 0 20px;
+            border-bottom: 1px solid lightgrey; }
+            article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(1) > h2 {
+              font-size: 18px; }
+          article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div {
+            width: 522px;
+            margin: 20px auto; }
+            article > div:nth-of-type(1) > section:nth-of-type(4) > div:nth-of-type(2) > div:nth-of-type(1) {
+              height: 120px;
+              border: 1px solid lightgrey; }
+        article > div:nth-of-type(1) > section:nth-of-type(2) {
+          height: 1964px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) {
+            height: 60px;
+            padding: 0 20px;
+            border-bottom: 1px solid lightgrey; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(1) > h2 {
+              font-size: 18px; }
+          article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div {
+            width: 602px;
+            height: 474px;
+            border: 1px solid lightgray;
+            text-align: center;
+            padding-top: 10px; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > img {
+              width: 582px;
+              height: 328px; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p {
+              width: 582px;
+              margin: 0 auto; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(1) {
+                text-align: left; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > p:nth-of-type(2) > span:nth-of-type(2) {
+                color: #00c000; }
+            article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div {
+              width: 582px;
+              height: 44px;
+              margin: 12px auto; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) {
+                width: 52px;
+                height: 22px; }
+                article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(1) > img {
+                  width: 52px;
+                  height: 22px; }
+              article > div:nth-of-type(1) > section:nth-of-type(2) > div:nth-of-type(2) > div > div > div:nth-of-type(2) {
+                width: 330px;
+                height: 44px;
+                line-height: 24px;
+                font-size: 12px; }
+    article > div:nth-of-type(2) {
+      width: 604px;
+      order: 2; }
+      article > div:nth-of-type(2) > section:nth-of-type(1) {
+        width: 270px; }
+      article > div:nth-of-type(2) > section:nth-of-type(2) {
+        height: 218px; }
+
+  footer {
+    background-color: #515151;
+    height: 326px; }
+    footer > div {
+      width: 582px;
+      height: 326px;
+      margin: 0 auto;
+      position: relative;
+      left: 34px;
+      color: white; }
+      footer > div > div {
+        width: 582px;
+        color: lightgrey;
+        order: 2;
+        position: relative;
+        top: 30px; }
+        footer > div > div > p {
+          width: 722px;
+          overflow: hidden; }
+      footer > div > ul {
+        width: 582px;
+        height: 234px;
+        order: 1;
+        text-align: center; }
+        footer > div > ul > li {
+          margin-bottom: -20px;
+          width: 582px; }
+          footer > div > ul > li:nth-of-type(1) {
+            position: relative;
+            top: 40px;
+            order: 4; }
+          footer > div > ul > li:nth-of-type(2) {
+            position: relative;
+            left: -120px;
+            order: 5; }
+            footer > div > ul > li:nth-of-type(2) > span {
+              color: lightgrey; }
+          footer > div > ul > li:nth-of-type(3) {
+            order: 6;
+            padding-bottom: 10px; }
+            footer > div > ul > li:nth-of-type(3) > img {
+              margin-left: 10px; } }
+footer {
+  background-color: #515151; }
+  footer > div {
+    width: 1002px;
+    height: 202px;
+    margin: 0 auto;
+    color: white; }
+    footer > div > div {
+      width: 1002px;
+      color: lightgrey; }
+      footer > div > div > p {
+        width: 1002px;
+        white-space: nowrap;
+        text-overflow: ellipsis;
+        overflow: hidden; }
+    footer > div > ul {
+      height: 128px; }
+      footer > div > ul > li {
+        float: left;
+        padding-top: 48px; }
+        footer > div > ul > li:nth-of-type(1) {
+          position: relative;
+          top: -20px; }
+        footer > div > ul > li:nth-of-type(2) {
+          margin-left: 120px; }
+          footer > div > ul > li:nth-of-type(2) > span {
+            color: lightgrey; }
+        footer > div > ul > li:nth-of-type(3) {
+          float: right; }
+          footer > div > ul > li:nth-of-type(3) > img {
+            margin-left: 10px; }
+
+/*# sourceMappingURL=haozhi1440.css.map */
